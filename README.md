@@ -1,5 +1,7 @@
 # BB8-herkansing
 De Github met alle belangrijke bestanden van de BB8 herkansing opdracht.
+Tijdens het project is er gebruik gemaakt van een Jira bord (https://widowcake.atlassian.net/jira/software/projects/BB8/boards/8/timeline)
+en een CRISP-DM structuur.
 
 De Github bevat 3 folders:
 
