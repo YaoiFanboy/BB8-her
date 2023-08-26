@@ -10,4 +10,4 @@ De Github bevat 4 folders:
 - Het Yolov8 Large model & de resulaten.
 - Het RoboFlow model & de resultaten.
 
-Het process, gemaakte keuzes en resultaten zijn te vinden in het Raport.pdf bestand.
+Het process, gemaakte keuzes en resultaten zijn te vinden in het Rapport.pdf bestand.
